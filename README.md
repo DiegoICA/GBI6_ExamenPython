@@ -14,5 +14,5 @@
 - Sistema operativo de 64 bits, procesador x64
 
 ## PROGRAMAS UTILIZADOS 
-- Anaconda Navigator 2.1.4
-- Python 3.10
+- Anaconda Navigator v2.1.4
+- Python v3.10
