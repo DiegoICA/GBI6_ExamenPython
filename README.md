@@ -16,3 +16,5 @@
 ## PROGRAMAS UTILIZADOS 
 - Anaconda Navigator v2.1.4
 - Python v3.10
+- Biopython lib v1.79
+- Anaconda3 v1.21.5
