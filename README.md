@@ -22,4 +22,4 @@
 - Pandas 1.4.2
 
 ## EXPLICACIÓN
-La data utilizada fue descagada con la funcion download_pubmed en el caso de los primeros literales. La funcion descargaba desde la base de datos de pubmed informacion sobre articulos que contengan la palabra clave ingresada. En la informacion se encontraba desde el registro, autores, ciudad, paise.
+La data utilizada fue descagada con la funcion download_pubmed en el caso de los primeros literales. La funcion descargaba desde la base de datos de pubmed informacion sobre articulos que contengan la palabra clave ingresada. En la informacion se encontraba desde el registro, autores, ciudad, paises.
