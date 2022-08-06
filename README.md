@@ -25,4 +25,6 @@
 La data utilizada fue descagada con la funcion download_pubmed en el caso de los primeros literales. La funcion descargaba desde la base de datos de pubmed informacion sobre articulos que contengan la palabra clave ingresada. En la informacion se encontraba desde el registro, autores, ciudad, paises.
 
 ##DIAGRAMA
+
+
 ![Diagrama](https://user-images.githubusercontent.com/105082565/183264087-f150616e-0c6a-4f76-96f1-c9e4e849a204.PNG)
